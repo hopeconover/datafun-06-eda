@@ -25,6 +25,7 @@ demonstrate cleaning skills for this project.
 
 Data Description: Housing Prices
 Dataset Source: Kaggle - Housing Prices Dataset
+Download Housing.csv from: <https://www.kaggle.com/datasets/yasserh/housing-prices-dataset?resource=download>
 
 ## Dataset Overview
 
