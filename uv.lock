@@ -251,7 +251,7 @@ wheels = [
 ]
 
 [[package]]
-name = "datafun-04-notebooks"
+name = "datafun-06-eda"
 version = "0.1.0"
 source = { editable = "." }
 dependencies = [
