@@ -10,9 +10,9 @@
 
 site_name: "Project Documentation"
 #Change to your GitHub Pages URL.
-site_url: https://hopeconover.github.io/datafun-04-notebooks/
+site_url: https://hopeconover.github.io/datafun-06-eda/
 #Change to your GitHub repository URL.
-repo_url: https://github.com/hopeconover/datafun-04-notebooks
+repo_url: https://github.com/hopeconover/datafun-06-eda
 site_description: Project documentation.
 docs_dir: docs
 site_dir: site
@@ -20,7 +20,7 @@ extra:
   social:
     - icon: fontawesome/brands/github
       #Change to your GitHub repository URL.
-      link: https://github.com/hopeconover/datafun-04-notebooks
+      link: https://github.com/hopeconover/datafun-06-eda
 
 # WHY: Material theme is industry standard, well-documented
 theme:
