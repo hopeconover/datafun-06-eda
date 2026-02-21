@@ -61,7 +61,7 @@ def load_data() -> pd.DataFrame:
     """Load housing data from CSV file."""
     LOG.info("Loading housing dataset from CSV")
 
-    df = pd.read_csv("Housing.csv")
+    df = pd.read_csv("housing.csv")
 
     LOG.info("Data loaded: %s rows, %s columns", df.shape[0], df.shape[1])
     return df
